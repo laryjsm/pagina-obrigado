@@ -17,6 +17,10 @@
     font-family: 'Sora';
     text-decoration: none;
 }
+
+body{
+    background-color: #000;
+}
 .main-inicial{
     background: url("./assets/PAGINA-DE-OBG-01.jpg.webp");
 }
