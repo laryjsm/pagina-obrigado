@@ -10,7 +10,7 @@ const counter = () => {
     
     if(sec == 0 ){
         setTimeout(()=>{
-             window.location.href = 'https://chat.whatsapp.com/DO6kAjZpQI2DakYpy7swb4'
+             window.location.href = 'https://rodolfomori.com.br/grupovip'
         },1500)
     }
 }
