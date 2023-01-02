@@ -16,16 +16,3 @@ const counter = () => {
 }
 
  startCounter()
-
-
-
-
-
-
-
-// const startCounter = () => {
-//     let timer = 15
-//     setInterval(()=> {
-//         if (--timer > 0)
-//     })
-// }
